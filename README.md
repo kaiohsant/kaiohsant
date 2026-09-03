@@ -13,8 +13,8 @@ Me chamo Kaio Henrique, sou estudante de Engenharia Elétrica na UFAC e apaixona
 <a href="https://www.instagram.com/kaioh.sant?igsi=Z3lsdXZsOWowNnMx" target="_blank">
   <img 
     align="left" 
-    alt="Email" 
-    title="Email" 
+    alt="Instagram" 
+    title="Instagram" 
     width="38px" 
     style="padding-right: 10px;" 
     src="./instagram.svg" 
