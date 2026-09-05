@@ -58,7 +58,8 @@ Me chamo Kaio Henrique, sou estudante de Engenharia Elétrica na UFAC e apaixona
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img align="left" alt="LaTeX" title="LaTeX" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img alt="LaTeX" title="LaTeX" width="38px" src="./LaTeX.svg" style="filter: invert(1);"
+/>
 <img 
   align="left" 
   alt="Arduino" 
